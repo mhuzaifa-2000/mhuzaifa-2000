@@ -4,7 +4,7 @@
 
 I build and ship full-stack platform features end-to-end — from REST API design and frontend architecture to developer enablement. I'm an expert in third-party integrations and AI LLM integrations and RAG architectures. I also run AI-for-Devs workshops for my team.
 
-[![View My Website](https://huzaifa-sidd.vercel.app/)]
+[View My Website](https://huzaifa-sidd.vercel.app/)
 ---
 
 ## Tech Stack
